@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
-<<<<<<< HEAD
-    id        = "com.phonegap.precursor"
+    id        = "com.precursor.cufm"
     version   = "1.0.0">
 
 <name>El Precursor</name>
 
 <description>
 El Precursor. Proyecto
-=======
-    id        = "com.phonegap.precursor"
-    version   = "1.0.0">
-
-<name>El Precursor</name>
-
-<description>
-El Precursor. Proyecto
->>>>>>> 201f2a51f1a7b52b202188535606acca6cf387a8
 </description>
 
 <author href="https://www.twitter.com/JavierMadridC" email="javiermadrid19@hotmail.com">
@@ -25,3 +15,4 @@ Javier Madrid
 </author>
 
 </widget>
+
