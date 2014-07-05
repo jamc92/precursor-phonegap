@@ -3,9 +3,6 @@ El Precursor | PhoneGap
 
 El Precursor periódico digital del Colegio Universitario Francisco de Miranda - Versión Movil
 
-
-- [Autores](#autores)
-
 ### <a name='autor'></a> **Autores:** 
 
 - Ramón Serrano <ramon.calle.88@gmail.com>
