@@ -2,7 +2,7 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
 <<<<<<< HEAD
-    id        = "com.precursor.cufm"
+    id        = "com.phonegap.precursor"
     version   = "1.0.0">
 
 <name>El Precursor</name>
@@ -10,13 +10,13 @@
 <description>
 El Precursor. Proyecto
 =======
-    id        = "com.phonegap.cursopg"
+    id        = "com.phonegap.precursor"
     version   = "1.0.0">
 
-<name>Curso PhoneGap</name>
+<name>El Precursor</name>
 
 <description>
-Curso de PhoneGap. Proyecto
+El Precursor. Proyecto
 >>>>>>> 201f2a51f1a7b52b202188535606acca6cf387a8
 </description>
 
